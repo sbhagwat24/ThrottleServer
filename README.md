@@ -26,7 +26,7 @@ $make
 
 <h3>Sample Output:</h3>
 <pre>
-#./client punnbuucsm5b04-vm4 5001 User1
+#./client my-vm4 5001 User1
 Allow User1
 Allow User1
 Allow User1
@@ -39,7 +39,7 @@ Deny User1
 
 </br>
 
-#./client punnbuucsm5b04-vm4 5001 User2
+#./client my-vm4 5001 User2
 Allow User2
 Allow User2
 Allow User2
